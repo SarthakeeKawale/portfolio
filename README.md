@@ -15,15 +15,11 @@ Projects and Writeups (In Progress)
 - **Languages**: Python, Bash  
 
 ## 📂 Featured Projects
-- 🔎 [Wireshark Network Analysis](./Projects/Wireshark-Network-Analysis.md)  
-- 🌐 [Web Penetration Lab](./Projects/Web-Pentest-Lab.md)  
-- 🕵️ [Forensics Challenge Report](./Projects/Forensics-Challenge.md)
+- Banake daal dungi yaaaaaar
 
 ## 🏆 CTF Writeups
-- [TryHackMe: Web Exploitation](./CTF-Writeups/TryHackMe-WebExploit.md)  
-- [HackTheBox: Reverse Engineering](./CTF-Writeups/HackTheBox-Reversing.md)
+- ruk abhi seek rahi hu 
 
 ## 📫 Contact
 - 📧 Email: sarthukawale46@gmail.com  
-- 🔗 LinkedIn: [Your Link Here]  
-- 🌍 TryHackMe Profile: [Your Link Here]  
+
