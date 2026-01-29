@@ -6,16 +6,16 @@ Projects and Writeups (In Progress)
 ## 🚀 About Me
 - Curious learner exploring Cybersecurity & Networking  
 - Interested in Penetration Testing, Digital Forensics & Ethical Hacking  
-- Love solving CTFs and hands-on labs (TryHackMe, HackTheBox)
+- Love solving CTFs and hands-on labs (TryHackMe,Coursera Labs)
 
 ## 🛠️ Skills
 - **Networking**: TCP/IP, Firewalls, IDS/IPS  
 - **Tools**: Wireshark, Nmap, Burp Suite, Metasploit  
 - **OS**: Linux (Kali, Ubuntu), Windows  
-- **Languages**: Python, Bash  
+- **Languages**: Python, Bash, SQL
 
 ## 📂 Featured Projects
-- Banake daal dungi yaaaaaar
+- In Progress Buddy
 
 ## 🏆 CTF Writeups
 - ruk abhi seek rahi hu 
