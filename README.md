@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 Projects and Writeups (In Progress)
 # 👋 Hi, I'm Sarthakee  
 💻 BCA Student | 🔐 Aspiring Cybersecurity Professional  
